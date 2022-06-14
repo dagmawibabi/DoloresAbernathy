@@ -1,6 +1,6 @@
 # Dolores Abernathy 🎉
 
-<img src="Assets/dolores.jpg" width="700px">
+<img src="Assets/dolores.jpg" width="500px">
 
 ## Description
     I wanted to create a channel that's entirely run by a bot. So I created a new channel and built 
