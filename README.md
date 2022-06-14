@@ -2,8 +2,6 @@
 
 <img src="Assets/dolores.jpg" width="300px" height="400px"> <img src="Assets/dolores2.jpg" width="350px" height="400px">
 
-![Screenshot](Assets/screenshot.jpg)
-
 ## Description
     I wanted to create a channel that's entirely run by a bot. So I created a new channel and built 
     it's admin bot, Dolores Abernathy. The bot curates, manages and posts content from around the 
@@ -14,6 +12,10 @@
     amusement park where the visiting humans interact with automatons and robots. However, all hell 
     breaks loose when the robots begin malfunctioning. And at the forefront of that robot revolution 
     is Dolores Abernathy.
+
+## Screenshot
+
+![Screenshot](Assets/screenshot.jpg)
 
 ## Telegram Channel Link
 ## [@DoloresAbernathy7](https://t.me/DoloresAbernathy7)
