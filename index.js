@@ -34,7 +34,7 @@ async function fetchRedditPost(){
 
     // Post to channel
     for(let i = 0; i < 8; i++){
-        let randomPostNumber = i; // getRandom(0, redditResponse["data"]["data"]["children"].length);    
+        let randomPostNumber = getRandom(0, redditResponse["data"]["data"]["children"].length);    
         let newPostTitle = redditResponse["data"]["data"]["children"][randomPostNumber]["data"]["selftext"].toLowerCase();
         let newPostContent = redditResponse["data"]["data"]["children"][randomPostNumber]["data"]["title"].toLowerCase();
         let newPostPhoto = redditResponse["data"]["data"]["children"][randomPostNumber]["data"]["url"].toLowerCase();
