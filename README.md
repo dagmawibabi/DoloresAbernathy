@@ -2,6 +2,8 @@
 
 <img src="Assets/dolores.jpg" width="300px" height="400px"> <img src="Assets/dolores2.jpg" width="350px" height="400px">
 
+![Screenshot](Assets/screenshot.jpg)
+
 ## Description
     I wanted to create a channel that's entirely run by a bot. So I created a new channel and built 
     it's admin bot, Dolores Abernathy. The bot curates, manages and posts content from around the 
