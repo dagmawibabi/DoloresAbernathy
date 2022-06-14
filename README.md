@@ -1,6 +1,6 @@
 # Dolores Abernathy 🎉
 
-![DoloresAbernathy](Assets/dolores.jpg)
+<img src="Assets/dolores.jpg" width="100px">
 
 ## Description
     I wanted to create a channel that's entirely run by a bot. So I created a new channel and built 
@@ -14,7 +14,7 @@
     is Dolores Abernathy.
 
 ## Telegram Channel Link
-# [@DoloresAbernathy7](https://t.me/DoloresAbernathy7)
+## [@DoloresAbernathy7](https://t.me/DoloresAbernathy7)
 
 # Support 
     Leave a star on this repo to support me ✨ 
