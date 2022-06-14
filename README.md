@@ -14,12 +14,11 @@
     is Dolores Abernathy.
 
 ## Telegram Channel Link
-# [DoloresAbernathy7](t.me/DoloresAbernathy7)
+# [@DoloresAbernathy7](https://t.me/DoloresAbernathy7)
 
 # Support 
-    Leave a star on on this repo to support me ✨ 
+    Leave a star on this repo to support me ✨ 
     P.S It's opensource, you can contribute and improve it.
 
 # Enjoy the contents of the channel! 😊
 
-@Dagmawi_Babi
